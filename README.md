@@ -1,6 +1,6 @@
 ## Continual Contrastive Learning for Image Classification
 
-This is the implementation of the [Continual Contrastive Learning for Image Classification](https://arxiv.org/abs/2107.01776)
+This is the implementation of the [Continual Contrastive Learning for Image Classification](https://arxiv.org/abs/2107.01776) (ICME2022)
 
 <p align="center">
   <img src="CCL.png" alt="pipeline" width="48%">
@@ -117,11 +117,15 @@ The project is only free for academic research purposes, but needs authorization
 If you use our code/model/data, please cite our paper:
 
 ```
-@Article{lin2021ccl,
-  author  = {Zhiwei Lin and Yongtao Wang and Hongxiang Lin},
-  title   = {Continual Contrastive Learning for Image Classification},
-  journal = {arXiv preprint arXiv:2107.01776},
-  year    = {2021},
+@inproceedings{DBLP:conf/icmcs/LinWL22,
+  author    = {Zhiwei Lin and
+               Yongtao Wang and
+               Hongxiang Lin},
+  title     = {Continual Contrastive Learning for Image Classification},
+  booktitle = {{IEEE} International Conference on Multimedia and Expo, {ICME} 2022,
+               Taipei, Taiwan, July 18-22, 2022},
+  pages     = {1--6},
+  year      = {2022}
 }
 ```
 
